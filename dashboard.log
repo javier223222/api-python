@@ -1,0 +1,15 @@
+2025-04-09 01:34:42,947 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 01:34:43,847 - INFO - Conexión exitosa a la base de datos
+2025-04-09 01:34:43,960 - INFO - Cargando datos de inversores desde tabla1...
+2025-04-09 01:35:23,898 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.8:5000
+2025-04-09 01:35:23,899 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:35:23,904 - INFO -  * Restarting with stat
+2025-04-09 01:35:26,823 - WARNING -  * Debugger is active!
+2025-04-09 01:35:26,831 - INFO -  * Debugger PIN: 876-650-540
+2025-04-09 01:35:26,859 - INFO - 127.0.0.1 - - [09/Apr/2025 01:35:26] "GET / HTTP/1.1" 200 -
+2025-04-09 01:35:29,745 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 01:35:30,720 - INFO - Conexión exitosa a la base de datos
+2025-04-09 01:35:30,818 - INFO - Cargando datos de inversores desde tabla1...

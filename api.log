@@ -1,0 +1,48 @@
+2025-04-09 00:58:21,010 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 00:58:21,050 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.8:5000
+2025-04-09 00:58:21,050 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 00:58:21,053 - INFO -  * Restarting with stat
+2025-04-09 00:58:21,840 - INFO - Conexión exitosa a la base de datos
+2025-04-09 00:58:21,929 - INFO - Cargando datos de inversores desde tabla1...
+2025-04-09 00:58:22,687 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 00:58:22,703 - WARNING -  * Debugger is active!
+2025-04-09 00:58:22,706 - INFO -  * Debugger PIN: 876-650-540
+2025-04-09 00:58:24,536 - INFO - Conexión exitosa a la base de datos
+2025-04-09 00:58:24,742 - INFO - Cargando datos de inversores desde tabla1...
+2025-04-09 00:58:29,800 - INFO - 127.0.0.1 - - [09/Apr/2025 00:58:29] "GET / HTTP/1.1" 200 -
+2025-04-09 00:58:30,328 - INFO - 127.0.0.1 - - [09/Apr/2025 00:58:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-09 00:59:20,043 - INFO - 127.0.0.1 - - [09/Apr/2025 00:59:20] "GET / HTTP/1.1" 200 -
+2025-04-09 01:00:25,640 - ERROR - Error general al cargar datos: Unable to allocate 579. MiB for an array with shape (632952, 120) and data type object
+2025-04-09 01:00:40,604 - ERROR - No hay datos eléctricos para limpiar
+2025-04-09 01:00:40,611 - ERROR - No hay datos eléctricos disponibles
+2025-04-09 01:00:40,616 - INFO - Caché actualizado: 2025-04-09 00:58:21.010822
+2025-04-09 01:01:58,330 - INFO - Cargados 632952 registros de datos eléctricos
+2025-04-09 01:01:58,395 - INFO - Cargando datos ambientales desde tabla2...
+2025-04-09 01:01:58,848 - INFO - 127.0.0.1 - - [09/Apr/2025 01:01:58] "[33mGET /api/dashboard HTTP/1.1[0m" 404 -
+2025-04-09 01:02:00,469 - INFO - Cargados 206008 registros de datos ambientales
+2025-04-09 01:02:00,470 - INFO - Cargando datos de irradiancia desde tabla3...
+2025-04-09 01:02:02,833 - INFO - Cargados 531019 registros de datos de irradiancia
+2025-04-09 01:02:02,860 - INFO - Conexión cerrada
+2025-04-09 01:02:15,436 - INFO - 127.0.0.1 - - [09/Apr/2025 01:02:15] "[33mGET /api/dashboard HTTP/1.1[0m" 404 -
+2025-04-09 01:02:26,007 - INFO - Caché actualizado: 2025-04-09 00:58:22.687817
+2025-04-09 01:03:26,009 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 01:03:26,851 - INFO - Conexión exitosa a la base de datos
+2025-04-09 01:03:26,940 - INFO - Cargando datos de inversores desde tabla1...
+2025-04-09 01:03:40,651 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 01:03:42,747 - INFO - Conexión exitosa a la base de datos
+2025-04-09 01:03:42,997 - INFO - Cargando datos de inversores desde tabla1...
+2025-04-09 01:08:11,275 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.8:5000
+2025-04-09 01:08:11,275 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:08:11,277 - INFO -  * Restarting with stat
+2025-04-09 01:08:12,766 - WARNING -  * Debugger is active!
+2025-04-09 01:08:12,770 - INFO -  * Debugger PIN: 876-650-540
+2025-04-09 01:08:46,428 - INFO - 127.0.0.1 - - [09/Apr/2025 01:08:46] "GET / HTTP/1.1" 200 -
+2025-04-09 01:08:58,918 - INFO - Conectando a la base de datos en 100.25.207.142...
+2025-04-09 01:08:59,854 - INFO - Conexión exitosa a la base de datos
+2025-04-09 01:08:59,969 - INFO - Cargando datos de inversores desde tabla1...
